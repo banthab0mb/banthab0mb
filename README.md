@@ -12,6 +12,11 @@ Member of Signal Cartel [1420.]
 
 ESRC 911 Operator
 
+-----
+
+[![banthab0mb's GitHub stats](https://github-readme-stats.vercel.app/api?username=banthab0mb)](https://github.com/banthab0mb/github-readme-stats)
+
+
 
 <!---
 banthab0mb/banthab0mb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
