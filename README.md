@@ -18,16 +18,27 @@ ESRC 911 Operator
 
 -----
 
-![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/eve_app)
-![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/eve_app)
-![Languages](https://img.shields.io/github/languages/top/banthab0mb/eve_app)
-![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/eve_app)
-![GitHub Pages](https://img.shields.io/github/deployments/banthab0mb/eve_app/github-pages)
+[![EVE App](https://img.shields.io/badge/EVE_App_-brightgreen?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
 
-![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/344E-Push-Back)
-![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344E-Push-Back)
-![Languages](https://img.shields.io/github/languages/top/banthab0mb/344E-Push-Back)
-![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344E-Push-Back)
+[![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app/commits/main)
+[![Languages](https://img.shields.io/github/languages/top/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
+[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
+[![GitHub Pages](https://img.shields.io/github/deployments/banthab0mb/eve_app/github-pages?style=for-the-badge)](https://banthab0mb.github.io/eve_app)
+
+[![344E Push Back](https://img.shields.io/badge/344E_Push_Back_-blue?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
+
+[![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back/commits/main)
+[![Languages](https://img.shields.io/github/languages/top/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
+[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
+
+[![344R High Stakes](https://img.shields.io/badge/344R_EZ_HSt_-purple?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
+
+[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt/commits/main)
+[![Languages](https://img.shields.io/github/languages/top/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
+[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
+
 
 
 
