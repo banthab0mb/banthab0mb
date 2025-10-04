@@ -20,26 +20,60 @@ ESRC 911 Operator
 
 ## My Repos
 
-[![EVE App](https://img.shields.io/badge/EVE_App_-brightgreen?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
+<a href="https://github.com/banthab0mb/eve_app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/EVE_App_-brightgreen?style=for-the-badge">
+</a>
 
-[![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app/commits/main)
-[![Languages](https://img.shields.io/github/languages/top/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
-[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/eve_app?style=for-the-badge)](https://github.com/banthab0mb/eve_app)
-[![GitHub Pages](https://img.shields.io/github/deployments/banthab0mb/eve_app/github-pages?style=for-the-badge)](https://banthab0mb.github.io/eve_app)
+<a href="https://github.com/banthab0mb/eve_app/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/commit-activity/m/banthab0mb/eve_app?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/eve_app/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/last-commit/banthab0mb/eve_app?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/eve_app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/languages/top/banthab0mb/eve_app?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/eve_app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/repo-size/banthab0mb/eve_app?style=for-the-badge">
+</a>
+<a href="https://banthab0mb.github.io/eve_app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/deployments/banthab0mb/eve_app/github-pages?style=for-the-badge">
+</a>
 
-[![344E Push Back](https://img.shields.io/badge/344E_Push_Back_-blue?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
+<br>
 
-[![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back/commits/main)
-[![Languages](https://img.shields.io/github/languages/top/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
-[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344E-Push-Back?style=for-the-badge)](https://github.com/banthab0mb/344E-Push-Back)
+<a href="https://github.com/banthab0mb/344E-Push-Back" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/344E_Push_Back_-blue?style=for-the-badge">
+</a>
 
-[![344R High Stakes](https://img.shields.io/badge/344R_EZ_HSt_-purple?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
+<a href="https://github.com/banthab0mb/344E-Push-Back/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/commit-activity/m/banthab0mb/344E-Push-Back?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/344E-Push-Back/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/last-commit/banthab0mb/344E-Push-Back?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/344E-Push-Back" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/languages/top/banthab0mb/344E-Push-Back?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/344E-Push-Back" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/repo-size/banthab0mb/344E-Push-Back?style=for-the-badge">
+</a>
 
-[![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt/commits/main)
-[![Languages](https://img.shields.io/github/languages/top/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
-[![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344R-EZ-HSt?style=for-the-badge)](https://github.com/banthab0mb/344R-EZ-HSt)
+<br>
+
+<a href="https://github.com/banthab0mb/344R-EZ-HSt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/344R_EZ_HSt_-purple?style=for-the-badge">
+</a>
+
+<a href="https://github.com/banthab0mb/344R-EZ-HSt/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/last-commit/banthab0mb/344R-EZ-HSt?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/344R-EZ-HSt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/languages/top/banthab0mb/344R-EZ-HSt?style=for-the-badge">
+</a>
+<a href="https://github.com/banthab0mb/344R-EZ-HSt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/repo-size/banthab0mb/344R-EZ-HSt?style=for-the-badge">
+</a>
 
 -----
 
