@@ -14,7 +14,11 @@ ESRC 911 Operator
 
 -----
 
-[![banthab0mb's GitHub stats](https://github-readme-stats.vercel.app/api?username=banthab0mb)](https://github.com/banthab0mb/github-readme-stats)
+[![banthab0mb's GitHub stats](https://github-readme-stats.vercel.app/api?username=banthab0mb&show_icons=true&theme=dark&hide=prs)](https://github.com/banthab0mb/github-readme-stats)
+
+-----
+
+![GitHub Contribution Snake](https://github.com/banthab0mb/banthab0mb/blob/output/github-contribution-grid-snake.svg)
 
 
 
