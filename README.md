@@ -18,7 +18,16 @@ ESRC 911 Operator
 
 -----
 
-![GitHub Contribution Snake](https://github.com/banthab0mb/banthab0mb/blob/output/github-contribution-grid-snake.svg)
+![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/eve_app)
+![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/eve_app)
+![Languages](https://img.shields.io/github/languages/top/banthab0mb/eve_app)
+![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/eve_app)
+![GitHub Pages](https://img.shields.io/github/deployments/banthab0mb/eve_app/github-pages)
+
+![Commits](https://img.shields.io/github/commit-activity/m/banthab0mb/344E-Push-Back)
+![Last Commit](https://img.shields.io/github/last-commit/banthab0mb/344E-Push-Back)
+![Languages](https://img.shields.io/github/languages/top/banthab0mb/344E-Push-Back)
+![Repo Size](https://img.shields.io/github/repo-size/banthab0mb/344E-Push-Back)
 
 
 
