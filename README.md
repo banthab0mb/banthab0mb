@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a YouTuber, gamer, and a sailor, amongst other things.<br><br>I race sailboats. (420, J22, Beneteau First 36.7)<br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br><br>Member of Signal Cartel [1420.]<br><br>ESRC 911 Operator</p>
+<p align="left">I am a YouTuber, gamer, and a sailor, amongst other things.<br><br>I race sailboats. (420, J22, Beneteau First 36.7)<br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br></p>
 
 ###
 
