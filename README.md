@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I am a YouTuber, gamer, and a sailor, amongst other things.<br><br>I race sailboats. (420, J22, Beneteau First 36.7)<br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br></p>
+<p align="left">I race sailboats<br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br><br>SHS '26<br><br>RIT Kate Gleason College of Engineering - Mechanical Enginnering<br></p>
+
 
 ###
 
