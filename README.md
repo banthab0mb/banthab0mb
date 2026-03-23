@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I race sailboats<br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br><br>SHS '26<br><br>RIT - Mechanical Enginnering<br></p>
+<p align="left">I code stuff <br><br>V5RC Competitor (344E)<br><br>Minecraft modpack dev<br><br>SHS '26<br><br>RIT - Mechanical Enginnering<br></p>
 
 
 ###
