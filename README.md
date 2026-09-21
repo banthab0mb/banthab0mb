@@ -22,7 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://recf.org/wp-content/uploads/2024/04/VEX-Robotics_Full-Color-1.png" alt="VEX Robotics logo" height="80" />
 
 </div>
 
